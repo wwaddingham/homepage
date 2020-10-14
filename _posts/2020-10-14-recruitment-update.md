@@ -3,7 +3,7 @@ title: "Recruitment update"
 date: 2020-10-14
 ---
 
-**The ESTIMATE Study is up and running at UCLH, London**. 
+**The ESTIMATE Study is up and running at UCLH NHS Trust in London**. 
 
 This multi-centre study is running over the next 2 years in collaboration with Erasmus Medical Centre, Rotterdam.  
 
