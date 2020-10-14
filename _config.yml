@@ -4,7 +4,7 @@ email: w.waddingham@ucl.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Studying cancer precursor lesions in the stomach and oesophagus, to inform endoscopic surveillance strategies for early diagnosis.
   
-theme: minima
+theme: minima 
 # social links
 github_username:  wwaddingham
 
