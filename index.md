@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Welcome to my page
 
-I'm glad you are here. I plan to talk about ...
+**William Waddingham**
+Clinical Research Fellow
+Gastroenterology Specialist Regstrar
+
+**Research Interests**
