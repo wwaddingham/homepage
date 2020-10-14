@@ -1,7 +1,10 @@
 
 
-**William Waddingham**
+#**William Waddingham**. 
+
 MRC Clinical Research Training Fellow, UCL Cancer Institute  
 Gastroenterology Specialist Registrar, UCLH NHS Trust  
 
 **Research Interests**
+
+**Active Projects & Studies** 
