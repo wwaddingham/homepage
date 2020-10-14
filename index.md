@@ -1,7 +1,7 @@
 # Welcome to my page
 
 **William Waddingham**
-Clinical Research Fellow
-Gastroenterology Specialist Regstrar
+MRC Clinical Research Training Fellow, UCL Cancer Institute  
+Gastroenterology Specialist Registrar, UCLH NHS Trust  
 
 **Research Interests**
