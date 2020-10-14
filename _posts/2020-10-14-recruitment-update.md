@@ -1,8 +1,10 @@
 #Recruitment update
 
-**The ESTIMATE Study is up and running at UCLH**. 
+**The ESTIMATE Study is up and running at UCLH, London**. 
 
-We are including patients at risk of gastric cancer with atrophic gastritis and gastric intestinal metaplasia.  
+This multi-centre study is running in collaboration with Erasmus Medical Centre, Rotterdam.  
+
+We are including patients at risk of gastric cancer with **atrophic gastritis** and **gastric intestinal metaplasia**.  
 
 We aim to show that targeted biopsies, using endoscopic image enhancement, offers a more accurate and reliable approach to staging the pre-malignant stomach. 
 We believe endosocpic staging is the future for gastric cancer risk prediction. 
