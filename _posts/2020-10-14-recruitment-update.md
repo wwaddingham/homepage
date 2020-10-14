@@ -1,6 +1,7 @@
 ---
 title: "Recruitment update"
 date: 2020-10-14
+---
 
 **The ESTIMATE Study is up and running at UCLH, London**. 
 
@@ -14,4 +15,4 @@ We believe endosocpic staging is the future for gastric cancer risk prediction.
 [Study Protocol](https://bmjopen.bmj.com/content/9/9/e032013). 
 
 [Trial Register](https://www.trialregister.nl/trial/6389)
----
+
