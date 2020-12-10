@@ -11,4 +11,4 @@ This is due to be presented at the British Society of Gastroenterology 2020 (pos
 Live Q&A will be at:
 5:00 PM - 6:00 PM, Wednesday January 27th 2021.
 
-[Poster & Presentation](https://youtu.be/ZFqplygRQ0k). 
+[Link to poster & online presentation](https://youtu.be/ZFqplygRQ0k). 
