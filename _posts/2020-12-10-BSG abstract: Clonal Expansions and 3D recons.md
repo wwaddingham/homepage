@@ -3,7 +3,7 @@ title: "BSG Abstract 2020: Clonal Expansions and 3D Recons"
 date: 2020-12-10
 ---
 
-**Very pleased to post a link to interim data being shown at the BSG annual conference 2020 **
+**Very pleased to post a link to interim data being shown at the BSG annual conference 2020**
 
 Title *Investigating clonal expansions in the normal stomach and the 3D architecture of oxyntic gastric glands.*
 
