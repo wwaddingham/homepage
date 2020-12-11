@@ -1,6 +1,5 @@
 ---
 title: "Recruitment update"
-layout: post
 date: 2020-10-14
 ---
 
