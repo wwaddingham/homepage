@@ -1,9 +1,10 @@
 ---
 layout: default
 theme: minima
-title: William Waddingham
+title: William Waddingham. 
 
 ---
+
 **MRC Clinical Research Training Fellow, UCL Cancer Institute  
 Gastroenterology Specialist Registrar, UCLH NHS Foundation Trust**
 
@@ -23,4 +24,5 @@ International study in collaboration with Erasmus Medical Centre, Rotterdam.
 **The PREFER Study** - in setup.  
 Investigating the efficacy of endoscopic follow up and conservative management for early stage oesophageal cancer (stage T1b). International study led by Amsterdam Medical Centre (AMC).
 
-![](https://wwaddingham.github.io/homepage/assets/Slide1.png)
+![](https://wwaddingham.github.io/homepage/assets/Slide1.png). 
+
