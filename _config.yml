@@ -3,7 +3,7 @@ author: William Waddingham
 email: w.waddingham@ucl.ac.uk 
 theme: minima 
 description: Studying cancer precursor lesions in the stomach and oesophagus, to inform endoscopic surveillance strategies for early diagnosis.  
-include: ["_posts"]
+
 # social links
 github_username:  wwaddingham
 
