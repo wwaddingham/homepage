@@ -19,3 +19,5 @@ International study in collaboration with Erasmus Medical Centre, Rotterdam.
 
 **The PREFER Study** - in setup.  
 Investigating the efficacy of endoscopic follow up and conservative management for early stage oesophageal cancer (stage T1b). International study led by Amsterdam Medical Centre (AMC).
+
+![](https://wwaddingham.github.io/github-pages-with-jekyll/assets/Slide1.png)
