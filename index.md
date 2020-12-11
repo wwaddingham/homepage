@@ -6,7 +6,6 @@ title: William Waddingham
 **MRC Clinical Research Training Fellow, UCL Cancer Institute  
 Gastroenterology Specialist Registrar, UCLH NHS Foundation Trust**
 
-![](https://wwaddingham.github.io/homepage/_posts)
 
 ## Research Interests
 1. Developing a quantitiative model of gastric cancer progression by studying the evolution of gastric interstinal metaplasia
