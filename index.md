@@ -1,5 +1,6 @@
 ---
 layout: default
+theme: minima
 title: William Waddingham
 ---
 **MRC Clinical Research Training Fellow, UCL Cancer Institute  
