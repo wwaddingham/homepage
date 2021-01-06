@@ -13,11 +13,11 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 defaults:
   # _posts
   - scope:
-      path: _posts
+      path: ""
       type: posts
       output: true
     values:
-      layout: single
+      layout: default
       author_profile: true
       read_time: true
       comments: true
