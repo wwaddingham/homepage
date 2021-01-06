@@ -12,7 +12,7 @@ Gastroenterology Specialist Registrar, UCLH NHS Foundation Trust**
 1. Developing a quantitiative model of gastric cancer progression by studying the evolution of gastric interstinal metaplasia
 2. Endoscopic diagnosis and risk stratification of cancer precursors and early cancers in the gastro-intestinal tract.
 
-![](https://github.com/wwaddingham/homepage/assets/Slide1.png)
+![](assets/Slide1.png)
 
 ## Active Projects
 **The ESTIMATE Study**:  
