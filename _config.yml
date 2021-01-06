@@ -13,7 +13,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: _posts
       type: posts
       output: true
     values:
