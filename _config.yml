@@ -7,19 +7,6 @@ description: Studying cancer precursor lesions in the stomach and oesophagus, to
 # social links
 github_username:  wwaddingham
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-      output: true
-    values:
-      layout: "default"
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
