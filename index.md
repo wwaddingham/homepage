@@ -1,5 +1,4 @@
 ---
-layout: default
 theme: minima
 title: William Waddingham
 
