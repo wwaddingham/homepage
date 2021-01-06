@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "BSG Abstract 2020: Clonal Expansions and 3D Recons"
 date: 2020-12-10
 ---
