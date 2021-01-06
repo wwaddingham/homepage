@@ -17,7 +17,7 @@ defaults:
       type: posts
       output: true
     values:
-      layout: default
+      layout: "default"
       author_profile: true
       read_time: true
       comments: true
