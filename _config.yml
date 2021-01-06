@@ -15,6 +15,7 @@ defaults:
   - scope:
       path: ""
       type: posts
+      output: true
     values:
       layout: single
       author_profile: true
