@@ -11,3 +11,5 @@ Abstract title: "Defing the clonal origin, expansion rate and clonal diversity o
 Below is an interview I gave on the work
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yr3dyqT8IUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link to interview](https://youtu.be/Yr3dyqT8IUU). 
