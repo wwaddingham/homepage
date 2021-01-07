@@ -15,4 +15,7 @@ Live Q&A will be at:
 In this work we study genetic mutations occurring in normal gastric tissue. We characterise clonal expansions and how this is influenced by chronic inflammation.
 We also showcase results from a novel tissue 3D reconstruction technique developed in the Jansen lab group.  In these examples we show how individual clonal lineages can be traced in 3D within the gastric glands they have originated.
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFqplygRQ0k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Link to poster & online presentation](https://youtu.be/ZFqplygRQ0k). 
