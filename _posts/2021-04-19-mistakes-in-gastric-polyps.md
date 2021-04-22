@@ -13,4 +13,4 @@ This piece was written with Dr David Graham Consultant Gastroenterologist at UCL
 <embed src="https://ueg.eu/a/273" style="width:1000px; height: 700px;">
 
 
-[link to article] (https://ueg.eu/a/273).
+[link to article](https://ueg.eu/a/273).
