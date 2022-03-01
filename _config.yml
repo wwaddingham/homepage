@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="N35JcRC9uJ_TNTnsvHsZm-AyybgPJ8CxuFkT0N85kyE" />
 title: My Homepage on Gastro-Intestinal Cancer Research
 author: William Waddingham
 email: w.waddingham@ucl.ac.uk 
@@ -9,4 +10,3 @@ github_username:  wwaddingham
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-{% raw %}{% seo %}{% endraw %}
