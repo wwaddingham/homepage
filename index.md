@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="N35JcRC9uJ_TNTnsvHsZm-AyybgPJ8CxuFkT0N85kyE" />. 
 ---
 theme: minima
 title: William Waddingham
