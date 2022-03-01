@@ -9,3 +9,4 @@ github_username:  wwaddingham
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+{% raw %}{% seo %}{% endraw %}
