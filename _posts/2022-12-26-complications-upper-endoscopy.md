@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review article: Complications of Diagnostic Upper Endoscopy"
-date: 2021-04-19
+date: 2022-12-26
 ---
 
 **Pleased to share this recently published review article published in BMJ Open Gastroenterology**. 
