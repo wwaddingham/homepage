@@ -12,7 +12,8 @@ This piece was written with Dr David Graham Consultant Gastroenterologist at UCL
 
 Published online in UEG Education, April 2021.
 
-<embed src="https://ueg.eu/a/273" style="width:700px; height:700px;">
+<embed src="https://ueg.eu/a/273" style="width:700px; height: 700px;">
+
 
 
 [link to article](https://ueg.eu/a/273).
