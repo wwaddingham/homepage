@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Review article: Complications of Diagnostic Upper Endoscopy"
+date: 2021-04-19
+---
+
+**Pleased to share this recently published review article published in BMJ Open Gastroenterology**. 
+
+"Complications of diagnostic upper Gastrointestinal endoscopy: common and rare – recognition, assessment and management"
+
+
+
+<embed src="[https://bmjopengastro.bmj.com/content/9/1/e000688]" style="width:1000px; height: 1000px;">
+
+
+
+[http://dx.doi.org/10.1136/bmjgast-2021-000688](http://dx.doi.org/10.1136/bmjgast-2021-000688).
