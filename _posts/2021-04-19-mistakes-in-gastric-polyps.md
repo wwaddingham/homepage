@@ -8,7 +8,7 @@ date: 2021-04-19
 
 "Mistakes in the management of gastric polyps and how to avoid them"
 
-This piece was written with Dr David Graham Consultant Gastroenterologist at UCLH NHS Foundation Trust
+This piece was written in collaboration with Dr David Graham Consultant Gastroenterologist at UCLH NHS Foundation Trust.
 
 <embed src="https://ueg.eu/a/273" style="width:700px; height: 700px;">
 
