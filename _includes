@@ -17,5 +17,5 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
-  <meta name="google-site-verification" content="google7b17e1a2cbb6726e.html" />
+  <meta name="google-site-verification" content="google-site-verification: google7b17e1a2cbb6726e.html" />
 </head>
