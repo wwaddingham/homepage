@@ -10,8 +10,9 @@ Title: "A digital pathology workflow for the segmentation and classification of 
 
 This paper demonstrates an exciting new tool that might have a role in increasing efficiency and standardisation of pathology reporting of chronic gastritis.  The current pathological diagnosis relies on the expertise and interest of the reporting histopathologist, and comes with a degree of inter-observer variability.
 
-<embed src="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275232" style="width:1000px; height: 1000px;">
 
+<iframe src="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275232" width="100%" height="500">
+</iframe>
 
 
 [https://doi.org/10.1371/journal.pone.0275232](https://doi.org/10.1371/journal.pone.0275232).
