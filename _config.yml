@@ -1,8 +1,8 @@
 title: My Homepage on Gastro-Intestinal Cancer Research
 author: William Waddingham
-email: w.waddingham@ucl.ac.uk 
+email: w.waddingham@ucl.ac.uk <br>clinical email: william.waddingham@nhs.net
 theme: minima 
-description: Studying cancer precursor lesions in the stomach and oesophagus, to inform endoscopic surveillance strategies for early diagnosis.  
+description: Studying cancer precursor lesions in the stomach and oesophagus to inform endoscopic surveillance strategies for early diagnosis.  
 
 # social links
 github_username:  wwaddingham
