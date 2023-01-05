@@ -10,7 +10,7 @@ date: 2021-04-19
 
 This piece was written with Dr David Graham Consultant Gastroenterologist at UCLH NHS Foundation Trust
 
-<embed src="https://ueg.eu/a/273" style="width:700px; height: 700px;">
+<embed src="https://ueg.eu/a/273" style="width:1000px; height: 700px;">
 
 
 
