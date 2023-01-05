@@ -5,7 +5,8 @@ title: William Waddingham
 ---
 
 **MRC Clinical Research Training Fellow, UCL Cancer Institute  
-Gastroenterology Specialist Registrar, UCLH NHS Foundation Trust**
+Gastroenterology Specialist Registrar, Barnet Hospital, Royal Free London Foundation Trust
+https://www.researchgate.net/profile/William-Waddingham**
 
 
 ## Research Interests
