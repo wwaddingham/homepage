@@ -10,8 +10,7 @@ date: 2022-12-26
 
 
 
-<embed src="https://bmjopengastro.bmj.com/content/9/1/e000688" style="width:1000px; height: 1000px;">
-
-
+<iframe src="https://bmjopengastro.bmj.com/content/9/1/e000688" width="100%" height="500">
+</iframe>
 
 [http://dx.doi.org/10.1136/bmjgast-2021-000688](http://dx.doi.org/10.1136/bmjgast-2021-000688).
