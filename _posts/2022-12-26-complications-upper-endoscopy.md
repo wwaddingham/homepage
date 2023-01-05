@@ -10,7 +10,7 @@ date: 2022-12-26
 
 
 
-<embed src="[https://bmjopengastro.bmj.com/content/9/1/e000688]" style="width:1000px; height: 1000px;">
+<embed src="https://bmjopengastro.bmj.com/content/9/1/e000688" style="width:1000px; height: 1000px;">
 
 
 
