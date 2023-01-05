@@ -17,3 +17,5 @@ We believe endoscopic staging is the future for gastric cancer risk prediction.
 
 [Trial Register](https://www.trialregister.nl/trial/6389)
 
+
+<iframe src="https://bmjopen.bmj.com/content/9/9/e032013" width="100%" height="500"> </iframe>
